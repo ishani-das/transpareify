@@ -1,0 +1,17 @@
+# Virtual environment
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated experiment data
+runs/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
